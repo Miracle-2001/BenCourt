@@ -2,7 +2,7 @@
 
 ## 刑事法庭流程
 
-![process](.files/process.png)
+![process](./files/process.png)
 
 
 ## 运行方式
